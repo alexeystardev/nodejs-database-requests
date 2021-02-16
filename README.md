@@ -1,3 +1,5 @@
+*README*
+
 <b>Allowed Router JUST for admin but not allowed for users like 'user' or 'moderator'</b>
 
 link:  http://localhost:3000/api/user/admin   <b> //  METHOD=GET </b>
